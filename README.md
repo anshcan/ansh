@@ -1,2 +1,2 @@
 # ansh
-print("hello world")
+print("hello")
